@@ -12,7 +12,9 @@ module.exports = {
     },
     useNullAsDefault: true,
   },
-  
+  /*
+  comentátario de commit
+  */
 
   staging: {
     client: 'postgresql',
