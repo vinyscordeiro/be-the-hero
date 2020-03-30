@@ -9,5 +9,5 @@ app.use(cors())
 app.use(express.json())
 app.use(routes)
 
-app.listen(5555)
-console.log("NodeJS Server Online on port: 5555");
+app.listen(3333)
+console.log("NodeJS Server Online on port: 3333");
